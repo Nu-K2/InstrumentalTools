@@ -7,3 +7,6 @@
 [submodule "PaymentSystemIntegrationSystem"]
 	path = PaymentSystemIntegrationSystem
 	url = https://github.com/Nu-K2/PaymentSystemIntegrationSystem.git
+[submodule "Template-Method"]
+	path = Template-Method
+	url = https://github.com/krill810/Template-Method.git
