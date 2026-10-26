@@ -4,3 +4,6 @@
 [submodule "VehicleCreationSystem"]
 	path = VehicleCreationSystem
 	url = https://github.com/Nu-K2/VehicleCreationSystem.git
+[submodule "PaymentSystemIntegrationSystem"]
+	path = PaymentSystemIntegrationSystem
+	url = https://github.com/Nu-K2/PaymentSystemIntegrationSystem.git
