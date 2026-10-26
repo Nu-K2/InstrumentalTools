@@ -1,2 +1,2 @@
 # Репозиторий для хранения всех работ по предмету «Инструментальные средства»
-Подробнее [смотреть wiki](https://github.com/Nu-K2/InstrumentalTools.wiki)
+Подробнее [смотреть wiki](https://github.com/Nu-K2/InstrumentalTools/wiki)
