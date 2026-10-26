@@ -1,0 +1,3 @@
+[submodule "practical-01"]
+	path = practical-01
+	url = https://github.com/Nu-K2/ApplicationSettingsManager.git
