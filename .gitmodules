@@ -1,3 +1,6 @@
 [submodule "ApplicationSettingsManager"]
 	path = ApplicationSettingsManager
 	url = https://github.com/Nu-K2/ApplicationSettingsManager.git
+[submodule "VehicleCreationSystem"]
+	path = VehicleCreationSystem
+	url = https://github.com/Nu-K2/VehicleCreationSystem.git
