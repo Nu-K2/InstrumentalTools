@@ -7,3 +7,6 @@
 [submodule "practical-03"]
 	path = practical-03
 	url = https://github.com/Nu-K2/PaymentSystemIntegrationSystem.git
+[submodule "practical-04"]
+	path = practical-04
+	url = https://github.com/krill810/Template-Method.git
