@@ -62,7 +62,7 @@
 | № | Тема | Ссылка | Отчёт |
 |---|---|---|---|
 | 5 | Разработка приложения с использованием текстовых компонентов в WPF и C# | [./practical-05-wpf-text-components]() | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%96-5.md) |
-| 6 | Разработка приложения с несколькими формами в WPF и C# | [./practical-06-wpf-multiple-forms]() | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%96-6.md) |
+| 6 | Разработка приложения с несколькими формами в WPF и C# | [./practical-06-wpf-multiple-forms](https://github.com/Nu-K2/TaskManager) | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%96-6.md) |
 | 7 | Разработка приложения с невизуальными компонентами в WPF и C# | [./practical-07-wpf-nonvisual-components]() | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%96-7.md) |
 | 8 | Разработка игрового приложения в WPF и C# | [./practical-08-wpf-game-app]() | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%96-8.md) |
 
