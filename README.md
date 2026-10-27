@@ -1,4 +1,4 @@
-[Русский](README.md) | [English](README.en.md)
+**Русский** | [English](README.en.md)
 # Инструментальные средства разработки ПО
 
 <div align="center">
