@@ -52,34 +52,34 @@
 
 | № | Тема | Ссылка | Отчёт |
 |---|---|---|---|
-| 1 | Реализация основных шаблонов на примере паттерна «Одиночка» в C# | ./practical-01-singleton | [Wiki]() |
-| 2 | Реализация порождающего паттерна «Абстрактная фабрика» в C# | ./practical-02-abstract-factory | [Wiki]() |
-| 3 | Реализация структурного паттерна «Адаптер» в C# | ./practical-03-adapter | [Wiki]() |
-| 4 | Реализация поведенческого паттерна «Шаблонный метод» в C# | ./practical-04-template-method | [Wiki]() |
+| 1 | Реализация основных шаблонов на примере паттерна «Одиночка» в C# | [./practical-01-singleton](https://github.com/Nu-K2/ApplicationSettingsManager) | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%961.md) |
+| 2 | Реализация порождающего паттерна «Абстрактная фабрика» в C# | [./practical-02-abstract-factory](https://github.com/Nu-K2/VehicleCreationSystem) | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%962.md) |
+| 3 | Реализация структурного паттерна «Адаптер» в C# | [./practical-03-adapter](https://github.com/Nu-K2/PaymentSystemIntegrationSystem) | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%963.md) |
+| 4 | Реализация поведенческого паттерна «Шаблонный метод» в C# | [./practical-04-template-method](https://github.com/krill810/Template-Method) | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%964.md) |
 
 ### WPF и C#
 
 | № | Тема | Ссылка | Отчёт |
 |---|---|---|---|
-| 5 | Разработка приложения с использованием текстовых компонентов в WPF и C# | ./practical-05-wpf-text-components | [Wiki]() |
-| 6 | Разработка приложения с несколькими формами в WPF и C# | ./practical-06-wpf-multiple-forms | [Wiki]() |
-| 7 | Разработка приложения с невизуальными компонентами в WPF и C# | ./practical-07-wpf-nonvisual-components | [Wiki]() |
-| 8 | Разработка игрового приложения в WPF и C# | ./practical-08-wpf-game-app | [Wiki]() |
+| 5 | Разработка приложения с использованием текстовых компонентов в WPF и C# | [./practical-05-wpf-text-components]() | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%96-5.md) |
+| 6 | Разработка приложения с несколькими формами в WPF и C# | [./practical-06-wpf-multiple-forms]() | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%96-6.md) |
+| 7 | Разработка приложения с невизуальными компонентами в WPF и C# | [./practical-07-wpf-nonvisual-components]() | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%96-7.md) |
+| 8 | Разработка игрового приложения в WPF и C# | [./practical-08-wpf-game-app]() | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%96-8.md) |
 
 ### Оптимизация, рефакторинг и UI
 
 | № | Тема | Ссылка | Отчёт |
 |---|---|---|---|
-| 9 | Оптимизация и рефакторинг кода в WPF и C# (базовый уровень) | ./practical-09-refactoring-basic | [Wiki]() |
-| 10 | Оптимизация и рефакторинг кода в WPF и C# (повышенный уровень) | ./practical-10-refactoring-advanced | [Wiki]() |
-| 11 | Разработка интерфейса пользователя в WPF и C# (базовый уровень) | ./practical-11-ui-basic | [Wiki]() |
-| 12 | Разработка интерфейса пользователя в WPF и C# (повышенный уровень) | ./practical-12-ui-advanced | [Wiki]() |
+| 9 | Оптимизация и рефакторинг кода в WPF и C# (базовый уровень) | [./practical-09-refactoring-basic]() | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%96-9.md) |
+| 10 | Оптимизация и рефакторинг кода в WPF и C# (повышенный уровень) | [./practical-10-refactoring-advanced]() | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%96-10.md) |
+| 11 | Разработка интерфейса пользователя в WPF и C# (базовый уровень) | [./practical-11-ui-basic]() | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%96-11.md) |
+| 12 | Разработка интерфейса пользователя в WPF и C# (повышенный уровень) | [./practical-12-ui-advanced]() | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%96-12.md) |
 
 ### Работа с базой данных
 
 | № | Тема | Ссылка | Отчёт |
 |---|---|---|---|
-| 13–15 | Работа с локальной базой данных SQLite в WPF и C# | ./practical-13-15-sqlite | [Wiki]() |
+| 13–15 | Работа с локальной базой данных SQLite в WPF и C# | [./practical-13-15-sqlite]() | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%96-13-15.md) |
 
 ---
 ## Статус выполнения
@@ -185,7 +185,7 @@ InstrumentalTools/
 
 ---
 
-## 🛠️ Требования
+## Требования
 
 - [.NET SDK](https://dotnet.microsoft.com/download) 6.0+
 - Visual Studio 2022 / Rider / VS Code с расширением C#
