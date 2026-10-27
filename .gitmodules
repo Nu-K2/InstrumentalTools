@@ -1,12 +1,12 @@
-[submodule "practical-01"]
-	path = practical-01
+[submodule "practical-01-singleton"]
+	path = practical-01-singleton
 	url = https://github.com/Nu-K2/ApplicationSettingsManager.git
-[submodule "practical-02"]
-	path = practical-02
+[submodule "practical-02-abstract-factory"]
+	path = practical-02-abstract-factory
 	url = https://github.com/Nu-K2/VehicleCreationSystem.git
-[submodule "practical-03"]
-	path = practical-03
+[submodule "practical-03-adapter"]
+	path = practical-03-adapter
 	url = https://github.com/Nu-K2/PaymentSystemIntegrationSystem.git
-[submodule "practical-04"]
-	path = practical-04
+[submodule "practical-04-template-method"]
+	path = practical-04-template-method
 	url = https://github.com/krill810/Template-Method.git
