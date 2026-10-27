@@ -1,4 +1,4 @@
-[English](README.en.md) | [Русский](README.md)
+**English** | [Русский](README.md)
 # Software Development Tools
 
 <div align="center">
