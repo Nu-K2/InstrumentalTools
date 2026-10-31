@@ -7,9 +7,9 @@
 [submodule "practical-03-adapter"]
 	path = practical-03-adapter
 	url = https://github.com/Nu-K2/PaymentSystemIntegrationSystem.git
-[submodule "practical-04-template-method"]
-	path = practical-04-template-method
-	url = https://github.com/krill810/Template-Method.git
 [submodule "practical-06-wpf-multiple-forms"]
 	path = practical-06-wpf-multiple-forms
 	url = https://github.com/Nu-K2/TaskManager.git
+[submodule "practical-04-template-method"]
+	path = practical-04-template-method
+	url = https://github.com/Nu-K2/TemplateMethod.git
