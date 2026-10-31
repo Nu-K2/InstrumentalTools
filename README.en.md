@@ -56,13 +56,13 @@ The repository covers the full course of 15 practical assignments: from classic 
 | 1 | Implementation of core patterns using the "Singleton" pattern in C# | [./practical-01-singleton](https://github.com/Nu-K2/ApplicationSettingsManager) | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%961.md) |
 | 2 | Implementation of the creational "Abstract Factory" pattern in C# | [./practical-02-abstract-factory](https://github.com/Nu-K2/VehicleCreationSystem) | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%962.md) |
 | 3 | Implementation of the structural "Adapter" pattern in C# | [./practical-03-adapter](https://github.com/Nu-K2/PaymentSystemIntegrationSystem) | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%963.md) |
-| 4 | Implementation of the behavioral "Template Method" pattern in C# | [./practical-04-template-method](https://github.com/krill810/Template-Method) | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%964.md) |
+| 4 | Implementation of the behavioral "Template Method" pattern in C# | [./practical-04-template-method](https://github.com/Nu-K2/TemplateMethod.git) | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%964.md) |
 
 ### WPF and C#
 
 | № | Topic | Link | Report |
 |---|---|---|---|
-| 5 | Developing an application using text components in WPF and C# | [./practical-05-wpf-text-components]() | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%96-5.md) |
+| 5 | Developing an application using text components in WPF and C# | [./practical-05-wpf-text-components](https://github.com/Nu-K2/DearDiary.git) | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%96-5.md) |
 | 6 | Developing an application with multiple forms in WPF and C# | [./practical-06-wpf-multiple-forms](https://github.com/Nu-K2/TaskManager) | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%96-6.md) |
 | 7 | Developing an application with non-visual components in WPF and C# | [./practical-07-wpf-nonvisual-components]() | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%96-7.md) |
 | 8 | Developing a game application in WPF and C# | [./practical-08-wpf-game-app]() | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%96-8.md) |
@@ -90,9 +90,9 @@ The repository covers the full course of 15 practical assignments: from classic 
 | 1 | Singleton | ✅ |
 | 2 | Abstract Factory | ✅ |
 | 3 | Adapter | ✅ |
-| 4 | Template Method | ✅ |
-| 5 | WPF: text components | 🚧 |
-| 6 | WPF: multiple forms | 🚧 |
+| 4 | Template Method | ❌ |
+| 5 | WPF: text components | ❌ |
+| 6 | WPF: multiple forms | ❌ |
 | 7 | WPF: non-visual components | 🚧 |
 | 8 | WPF: game application | 🚧 |
 | 9 | Refactoring (basic) | 🚧 |
