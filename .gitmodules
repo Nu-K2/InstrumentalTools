@@ -13,3 +13,6 @@
 [submodule "practical-04-template-method"]
 	path = practical-04-template-method
 	url = https://github.com/Nu-K2/TemplateMethod.git
+[submodule "practical-05-wpf-text-components"]
+	path = practical-05-wpf-text-components
+	url = https://github.com/Nu-K2/DearDiary.git
