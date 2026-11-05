@@ -90,9 +90,9 @@ The repository covers the full course of 15 practical assignments: from classic 
 | 1 | Singleton | ✅ |
 | 2 | Abstract Factory | ✅ |
 | 3 | Adapter | ✅ |
-| 4 | Template Method | ❌ |
-| 5 | WPF: text components | ❌ |
-| 6 | WPF: multiple forms | ❌ |
+| 4 | Template Method | ✅ |
+| 5 | WPF: text components | ✅ |
+| 6 | WPF: multiple forms | ✅ |
 | 7 | WPF: non-visual components | 🚧 |
 | 8 | WPF: game application | 🚧 |
 | 9 | Refactoring (basic) | 🚧 |
