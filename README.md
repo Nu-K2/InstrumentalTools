@@ -15,7 +15,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Wiki](https://img.shields.io/badge/Wiki-Documentation-blue)
 [![Status](https://img.shields.io/badge/status-in%20progress-yellow)](#)
-[![Works](https://img.shields.io/badge/works-4%20of%2015-brightgreen)](#)
+[![Works](https://img.shields.io/badge/works-7%20of%2015-brightgreen)](#)
 </div>
 
 ---
