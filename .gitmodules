@@ -16,3 +16,6 @@
 [submodule "practical-05-wpf-text-components"]
 	path = practical-05-wpf-text-components
 	url = https://github.com/Nu-K2/DearDiary.git
+[submodule "practical-08-wpf-game-app"]
+	path = practical-08-wpf-game-app
+	url = https://github.com/Nu-K2/CatchTheSquare.git
