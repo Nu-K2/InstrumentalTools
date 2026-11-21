@@ -15,7 +15,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Wiki](https://img.shields.io/badge/Wiki-Documentation-blue)
 [![Status](https://img.shields.io/badge/status-in%20progress-yellow)](#)
-[![Works](https://img.shields.io/badge/works-7%20of%2015-brightgreen)](#)
+[![Works](https://img.shields.io/badge/works-9%20of%2015-brightgreen)](#)
 </div>
 
 ---
@@ -71,7 +71,7 @@
 
 | № | Тема | Ссылка | Отчёт |
 |---|---|---|---|
-| 9 | Оптимизация и рефакторинг кода в WPF и C# (базовый уровень) | [./practical-09-refactoring-basic]() | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%96-9.md) |
+| 9 | Оптимизация и рефакторинг кода в WPF и C# (базовый уровень) | [./practical-09-refactoring-basic](https://github.com/Nu-K2/BadCalculator) | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%96-9.md) |
 | 10 | Оптимизация и рефакторинг кода в WPF и C# (повышенный уровень) | [./practical-10-refactoring-advanced]() | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%96-10.md) |
 | 11 | Разработка интерфейса пользователя в WPF и C# (базовый уровень) | [./practical-11-ui-basic]() | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%96-11.md) |
 | 12 | Разработка интерфейса пользователя в WPF и C# (повышенный уровень) | [./practical-12-ui-advanced]() | [Wiki](https://github.com/Nu-K2/InstrumentalTools/wiki/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%E2%84%96-12.md) |
@@ -93,9 +93,9 @@
 | 4 | Шаблонный метод | ✅  |
 | 5 | WPF: текстовые компоненты | ✅  |
 | 6 | WPF: несколько форм | ✅ |
-| 7 | WPF: невизуальные компоненты | ❌  |
-| 8 | WPF: игровое приложение | ❌  |
-| 9 | Рефакторинг (базовый) | 🚧  |
+| 7 | WPF: невизуальные компоненты | ✅  |
+| 8 | WPF: игровое приложение | ✅  |
+| 9 | Рефакторинг (базовый) | ❌  |
 | 10 | Рефакторинг (продвинутый) | 🚧 |
 | 11 | UI (базовый) | 🚧  |
 | 12 | UI (продвинутый) | 🚧|
